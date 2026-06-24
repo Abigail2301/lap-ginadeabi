@@ -40,7 +40,7 @@ nav ul li{
     float: left;
     width:calc(80% - 80px);
     min-height:500px;
-    background: #ffffff;
+    background:#87CEEB;
     padding: 40px;
 }
 .article{
